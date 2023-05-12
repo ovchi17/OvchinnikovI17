@@ -8,5 +8,9 @@
 
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ1YzJmMTQ2NTNlNDkyNTAxYWU1MzNkYWQyOWY2ZjM1ODZjNjhkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0aSgmztK0XdbHmpFv/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ1YzJmMTQ2NTNlNDkyNTAxYWU1MzNkYWQyOWY2ZjM1ODZjNjhkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0aSgmztK0XdbHmpFv/giphy.gif" width="230"/>
 </div>
+
+---
+
+### :fire: My Stats : [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OvchinnikovI17&theme=dark&background=000000)](https://git.io/streak-stats)
