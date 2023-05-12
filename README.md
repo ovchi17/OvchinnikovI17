@@ -15,4 +15,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OvchinnikovI17&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvchinnikovI17&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<br></br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvchinnikovI17&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
