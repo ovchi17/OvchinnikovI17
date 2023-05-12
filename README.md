@@ -8,12 +8,12 @@
 
 </div>
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ1YzJmMTQ2NTNlNDkyNTAxYWU1MzNkYWQyOWY2ZjM1ODZjNjhkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0aSgmztK0XdbHmpFv/giphy.gif" width="230"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGQ1YzJmMTQ2NTNlNDkyNTAxYWU1MzNkYWQyOWY2ZjM1ODZjNjhkZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/l0aSgmztK0XdbHmpFv/giphy.gif" width="200"/>
 </div>
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=OvchinnikovI17&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
-<br></br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OvchinnikovI17&layout=compact&theme=radical&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
